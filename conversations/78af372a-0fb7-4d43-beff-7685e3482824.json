@@ -1,0 +1,58 @@
+{
+  "id": "78af372a-0fb7-4d43-beff-7685e3482824",
+  "title": "会社の主な取り扱い製品を教えてください。",
+  "created_at": "2026-09-14T00:10:27",
+  "updated_at": "2026-09-14T00:11:26",
+  "messages": [
+    {
+      "role": "user",
+      "content": "会社の主な取り扱い製品を教えてください。"
+    },
+    {
+      "role": "assistant",
+      "content": "主な取り扱い製品は、オーガニックコットン100%やリサイクル素材を使用したTシャツの製造・販売です。",
+      "categories": [
+        "会社について"
+      ],
+      "sources": [
+        "会社について/会社概要.pdf",
+        "会社について/株主優待について.pdf"
+      ]
+    },
+    {
+      "role": "user",
+      "content": "会社の設立は何年ですか？"
+    },
+    {
+      "role": "assistant",
+      "content": "会社の設立は2020年です。",
+      "categories": [
+        "会社について"
+      ],
+      "sources": [
+        "会社について/会社概要.pdf",
+        "会社について/株主優待について.pdf"
+      ]
+    },
+    {
+      "role": "user",
+      "content": "主な取引先を教えてください。"
+    },
+    {
+      "role": "assistant",
+      "content": "該当する資料はありません。",
+      "categories": [],
+      "sources": []
+    },
+    {
+      "role": "user",
+      "content": "主な取引先を教えてください。"
+    },
+    {
+      "role": "assistant",
+      "content": "該当する資料はありません。",
+      "categories": [],
+      "sources": []
+    }
+  ]
+}
